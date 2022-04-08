@@ -1,0 +1,13 @@
+.icon .fa{
+    font-size: 35px;
+}
+
+.foote_padding{
+    padding-top: 160px !important;
+}
+.team-image img{
+    height: 300px !important;
+    width: 100% !important;
+    object-fit: contain !important;
+    background: #f3f3f3 !important;
+}
